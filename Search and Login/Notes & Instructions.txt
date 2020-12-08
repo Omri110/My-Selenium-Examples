@@ -1,0 +1,31 @@
+Running instructions:
+
+1. install Node.js in your computer
+download link:
+https://nodejs.org/en/download/
+
+2. download selenium-webdriver for javascript for chrome:
+https://www.npmjs.com/package/selenium-webdriver
+
+3. set the download file to a path variable in windows:
+1) press win-key
+2) search 'environment variables' and click on the first result
+3) go to advanced tab
+4)click on Environment Variables
+5) click on 'path' in the top window, then click on 'Edit'
+6) click on New
+7) click on browse
+8) navigate to the selenium file folder
+
+4. open command line on the example location
+5. write 'node index' and Enter
+
+Notes:
+This program enters a searches a facebook and instagram profiles
+and clicks them,
+then logging into example user(the user doesn't work)
+
+ I used class, css Selector and name methods to locate the elements 
+
+
+
