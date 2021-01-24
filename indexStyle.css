@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(206, 231, 185);
+    color: rgb(34, 40, 66);
+    font-family: sans-serif; 
+    text-align: left;
+}
+
+button
+{
+    background-color: lightsalmon;
+    color: navy;
+    font-family: Assistant;
+
+}
+button:hover{
+    background-color: rgb(238, 164, 212);
+    color: navy;
+    font-family: Assistant;
+}
+
+div{
+    text-align: center;
+}
+
+button:visited{
+    background-color: lightsalmon;
+    color: navy;
+    font-family: Assistant;
+}
+
+h1{
+    font-family:Fredoka One;
+    color: darkmagenta;
+}
+
+unicorn{
+    font-family:Sweet Unicorn;
+    color: darkmagenta;
+
+}
+
+Vegan{
+    font-family:'Vegan Style Personal Use';
+    color: darkmagenta;
+}
+
+
+.heb1{
+    font-family:Segoe UI;
+    color: darkmagenta;
+    text-align: right;
+    
+    /*hebrew*/
+
+}
+
+.heb2{
+    font-family: Narkisim;
+    color: darkmagenta;
+    text-align: right;
+    
+    /*hebrew*/
+}
